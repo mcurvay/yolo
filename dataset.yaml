@@ -1,0 +1,5 @@
+train: /Users/cagatay/Documents/comp.eng/comp.vision/yolo/images/train
+val: /Users/cagatay/Documents/comp.eng/comp.vision/yolo/images/val
+
+nc: 1
+names: ["apple"]
