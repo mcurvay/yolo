@@ -1,9 +1,10 @@
-## YOLO apple detection project
-### i made a YOLO implementation project for Comp. Vision lecture lead by Osman AKIN 
 
-#### i used YOLOv8 and a data set available on kaggle https://www.kaggle.com/datasets/aeeeeeep/apple-single-object-detection?resource=download
-there are more than 4000 pictures and annotations.
-my training last 14 epocs. dataset is also included in repo.
-some results are in the samples folder
-you can download pics and movie to see results
-we can see that our model needs exercise more:))
+## This repository is for my Comp. Vision Lecture (lead by Dr. Osman Akın)
+
+I made a YOLO v8  implementation .
+i used a dataset (https://www.kaggle.com/datasets/aeeeeeep/apple-single-object-detection) which contains more than 4000 pictures
+
+i put some result pics and a short video
+but my model needs some more exercise :))  
+
+i made also a ui for checking single pictures
