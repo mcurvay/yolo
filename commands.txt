@@ -1,0 +1,1 @@
+streamlit run streamlit_app.py # do not run streamlit on ide instead run this command on terminal
