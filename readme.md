@@ -6,3 +6,4 @@ there are more than 4000 pictures and annotations.
 my training last 14 epocs. dataset is also included in repo.
 some results are in the samples folder
 you can download pics and movie to see results
+we can see that our model needs exercise more:))
