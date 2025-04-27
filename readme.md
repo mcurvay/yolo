@@ -4,4 +4,4 @@
 #### i used YOLOv8 and a data set available on kaggle https://www.kaggle.com/datasets/aeeeeeep/apple-single-object-detection?resource=download
 there are more than 4000 pictures and annotations.
 my training last 14 epocs. dataset is also included in repo.
-some results are [here](samples/Screen Recording 2025-04-27 at 20.01.36.mov)
+some results are in the samples folder
